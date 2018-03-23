@@ -1,1 +1,1 @@
-# AlgorithmSumZeros LC 236
+# AlgorithmSumZeros LC 283
